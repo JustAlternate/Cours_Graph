@@ -1,11 +1,8 @@
 _Weber Loïc_
 
-# Carnet de Bord 
-
 # 1. Généralité sur les Graphes
 
 ## 1.1 Graphe Simple
-
 Trouver exemple graphe simple
 
 ## 1.2 Graphe Orienté
@@ -21,6 +18,22 @@ Exemple et infos
 
 ### 1.4.2 Graphe Discret
 Exemple et infos
+
+### 1.4.3 Arbres
+Définition et exemple.
+
+## 1.5 Arbres Couvrant.
+Definition et objectif
+
+### 1.5.1 Trouver nombre d'arbres couvrant
+
+#### 1.5.1.1 Codage
+
+#### 1.5.1.2 Décodage
+
+### 1.5.2 Kruskal
+
+### 1.5.3 Prim
 
 
 
