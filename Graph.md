@@ -7,7 +7,7 @@ Trouver exemple graphe simple
 
 ## 1.2 Graphe Orienté
 Pareil
-Bonjour
+Bonjour oui
 ## 1.3 Connexivité
 Explication + exemple graphe 3 connexe.
 
