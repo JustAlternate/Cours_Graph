@@ -76,7 +76,6 @@ subgraph E :
 end
 ```
 Le tableau distance :
-
 | Etats | 1 | 2 | 3 | 4 |
 |:-----:|:-:|:-:|:-:|:-:|
 | init|0*|$+∞$|$+∞$|$+∞$|
