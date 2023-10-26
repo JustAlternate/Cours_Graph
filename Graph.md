@@ -16,8 +16,26 @@ Explication + exemple graphe 3 connexe.
 ### 1.4.1 Graphe Complet
 Exemple et infos
 
+Un graphe complet est un graphe non orienté dans lequel il existe pour tous les sommets une arête qui relie deux points quelquonque. 
+
+```dot
+graph MyGraph {
+    A -- B;
+    A -- C;
+    A -- D;
+    A -- E;
+    B -- C;
+    B -- E;
+    B -- D;
+    C -- D;
+    C -- E;
+    E -- D;
+}
+
 ### 1.4.2 Graphe Discret
 Exemple et infos
+
+
 
 ### 1.4.3 Arbres
 Définition et exemple.
